@@ -1,0 +1,25 @@
+{
+  "name": "weatherapp-learn",
+  "version": "1.0.0",
+  "description": "node, express",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bithope/weatherApp-learn.git"
+  },
+  "keywords": [
+    "learn"
+  ],
+  "author": "Bithope",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bithope/weatherApp-learn/issues"
+  },
+  "homepage": "https://github.com/bithope/weatherApp-learn#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
